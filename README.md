@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Dani
-Henry School Proyect
+Este proyecto es una prueba
